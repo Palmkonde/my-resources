@@ -2,8 +2,10 @@
 
 ## List of contents
 
-- [Heap Exploitation](#1)
+- [Heap Exploitation](#heap-exploitation)
 
-# Heap Exploitation {#1}
+---
+
+# Heap Exploitation
 
 # Kernel Exploitation
